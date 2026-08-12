@@ -8,7 +8,7 @@ Some of these projects might be **basic ahh projects** right now. That's fine.
 
 They're my foundation.
 
-As I learn more, this repo will grow with me — from simple HTML pages to more complex full-stack applications and everything in between.
+As I learn more, this repo will grow with me  from simple HTML pages to more complex full-stack applications and everything in between.
 
 ## 📂 Projects
 
