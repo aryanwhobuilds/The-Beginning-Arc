@@ -12,11 +12,11 @@ As I learn more, this repo will grow with me  from simple HTML pages to more com
 
 ## 📂 Projects
 
-| #  | Project                                | What I learned                                  |
-| -- | -------------------------------------- | ----------------------------------------------- |
+| # | Project | What I learned |
+|---|---|---|
 | 01 | [Single Page CV](./01-single-page-cv/) | Semantic HTML, SEO Meta Tags, OG Tags & Favicon |
-| 02 | Coming soon...                         | —                                               |
-| 03 | Coming soon...                         | —                                               |
+| 02 | [Basic HTML Website](./02-basic-html-website/) | Multi-page structure, navigation & semantic HTML |
+| 03 | Coming soon... | — |
 
 ## 🧠 Currently Learning
 
